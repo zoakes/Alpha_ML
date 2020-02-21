@@ -7,5 +7,6 @@
  
  -- KNN for determining regimes and fixed universes
 
+Please reach out for pull requests and collaboration
 
 -Zach Oakes
